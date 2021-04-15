@@ -37,3 +37,18 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 <img src='images/comparison.jpg' height=200>
 <img src='images/comparison2.jpg' height=350>
 <img src='images/ROC.jpg' height=350>
+
+The 5 models has similar performance. XGBoost has the highest accuracy and ROC. Whereas Random Forest has the highest F1 score. Since the target of the dataset is not very imbalanced (about 3:1), accuracy is also acceptable for evaluating the model performance. 
+
+In terms of the three evaluation metrics, as well as the time spent on model training, XGBoost will be the best model for the classification.
+
+
+### Conclusion
+- Model used: XGBoost
+- Accuracy: 0.840
+- F1 Score: 0.660
+- ROC-AUC: 0.90
+
+
+### Skill acquired
+- Data cleaning
