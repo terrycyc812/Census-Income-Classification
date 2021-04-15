@@ -18,3 +18,7 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 
 
 ### Some visualizations
+<img src='images/target.jpg' height=250>
+<img src='images/education.jpg' height=250>
+<img src='images/country.jpg' height=250>
+<img src='images/age.jpg' height=250>
