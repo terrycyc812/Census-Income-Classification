@@ -33,7 +33,7 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 - XGBoost
 
 
-### Comparison of models
+### Comparison of models' performances
 <img src='images/comparison.jpg' height=200>
 <img src='images/comparison2.jpg' height=350>
 <img src='images/ROC.jpg' height=350>
@@ -50,5 +50,9 @@ In terms of the three evaluation metrics, as well as the time spent on model tra
 - ROC-AUC: 0.90
 
 
-### Skill acquired
-- Data cleaning
+### Skills Acquired
+- Data manipulation by Pandas
+- Feature engineering
+- Machine Learning model building
+- Hyperparameter tuning
+- Model evaluation
