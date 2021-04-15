@@ -1,5 +1,6 @@
-# Census Income
- 
+# Census Income Classification
+
+
 ### Data Source
 [UCL Machine Learning Repository - Census Income Data Set](http://archive.ics.uci.edu/ml/datasets/Census+Income)
 
