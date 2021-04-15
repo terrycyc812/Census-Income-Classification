@@ -22,3 +22,17 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 <img src='images/education.jpg' height=250>
 <img src='images/country.jpg' height=250>
 <img src='images/age.jpg' height=250>
+
+
+### Machine Learning models used
+- Logistic Regression
+- KNN
+- Random Forest
+- AdaBoost
+- XGBoost
+
+
+### Comparison of models
+<img src='images/comparison.jpg' height=150>
+<img src='images/comparison2.jpg' height=350>
+<img src='images/ROC.jpg' height=350>
