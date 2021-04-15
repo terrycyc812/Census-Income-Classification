@@ -8,4 +8,13 @@
 Build machine learning models to predict whether income exceeds $50K/yr based on census data.   
 
 
+### Data Cleaning and Feature engineering
+- Checking for missing values (absence in this dataset)
+- Removing duplicated entries
+- Removing the leading blankspace for string data
+- Removing entries with unknown data
+- Grouping 42 categories into 4 for native_country
+- Droping some columns to avoid multicollinearity
 
+
+### Some visualizations
