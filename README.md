@@ -25,6 +25,11 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 <img src='images/age.jpg' height=250>
 
 
+### Feature pre-processing
+- One-hot encoding
+- Standard scaling
+
+
 ### Machine Learning models used
 - Logistic Regression
 - KNN
