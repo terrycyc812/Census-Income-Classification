@@ -42,7 +42,7 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 
 ### Comparison of models' performances
 The models are trained with the best parameters after hyperparameter tuning<br>
-<img src='images/comparison.jpg' height=200>
+<img src='images/comparison.jpg' height=200><br>
 The best results are highlighted.
 <br>
 <br>
