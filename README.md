@@ -41,7 +41,12 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 
 
 ### Comparison of models' performances
-<img src='images/comparison.jpg' height=200>
+The models are trained with the best parameters after hyperparameter tuning<br>
+<img src='images/comparison.jpg' height=200><br>
+The best results are highlighted.
+<br>
+<br>
+
 <img src='images/comparison2.jpg' height=350>
 <img src='images/ROC.jpg' height=350>
 
@@ -52,14 +57,19 @@ Since the target of the dataset is not very imbalanced (about 3:1), accuracy is 
 
 ### Conclusion
 - Model used: XGBoost
-- Accuracy: 0.840
-- F1 Score: 0.660
+- Accuracy: 0.84
+- F1 Score: 0.66
 - ROC-AUC: 0.90
+
+
+### Next steps for improvement
+- Reduce the False positive/negative rate to enhance the performance
+- Reduce the overfitting of Random Forest to the minimum level
+- Remove the less important features and see if models' performance will improve
 
 
 ### Skills Acquired
 - Data manipulation by Pandas
 - Feature engineering
-- Machine Learning model building
-- Hyperparameter tuning
+- Machine Learning with Hyperparameter tuning
 - Model evaluation
