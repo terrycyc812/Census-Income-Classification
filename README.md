@@ -27,8 +27,9 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 <img src='images/age.jpg' height=250>
 
 
-### Feature pre-processing
+### Pre-processing
 - One-hot encoding
+- Train-test splitting
 - Standard scaling
 
 
@@ -49,13 +50,9 @@ Accuracy is selected for the model evaluation metrics. After hyperparameter tuni
 The 5 models has similar performance. But in terms of accuracy, XGBoost performs the best. 
 
 
-
-
 ### Conclusion
 - Model used: XGBoost
 - Accuracy: 0.84
-- F1 Score: 0.66
-- ROC-AUC: 0.90
 
 
 ### Next steps for improvement
