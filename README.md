@@ -42,13 +42,9 @@ Build machine learning models to predict whether income exceeds $50K/yr based on
 
 ### Comparison of models' performances
 The models are trained with the best parameters after hyperparameter tuning<br>
-<img src='images/comparison.jpg' height=200><br>
-The best results are highlighted.
-<br>
-<br>
-
+<img src='images/comparison.jpg' height=200>
 <img src='images/comparison2.jpg' height=350>
-<img src='images/ROC.jpg' height=350>
+
 
 The 5 models has similar performance. XGBoost has the highest accuracy and ROC. Random Forest has the highest F1 score, but it is slightly overfitting (refer to the code for details). 
 
